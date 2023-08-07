@@ -1,7 +1,7 @@
 {
   "name": "reactlab",
   "private": false,
-  "homepage": "https://humanitybg.github.io/simple-react-calculator/src/index.js",
+  "homepage": "https://humanitybg.github.io/simple-react-calculator/public/index.html",
   "dependencies": {
     "coder": "^1.0.0",
     "react": "^18.2.0",
